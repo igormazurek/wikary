@@ -11,7 +11,7 @@ The tables express a diverse set of n-ary relations which constitute a new targe
 
 ## Construction scripts
 
-#### Main script the covers identifying matches 
+#### Main script that covers identifying matches
 
 ```
 wikary.ipynb
@@ -26,6 +26,6 @@ annotations_tool.ipynb
 #### Sample of files used through code execution, based on Simple English version
 
 ```
-./sample_files
+./sample_files/
 ```
 
